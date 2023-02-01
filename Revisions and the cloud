@@ -53,5 +53,14 @@ thired--you commit staged changes
 To determine the state of files, utilize the git status command
 EX---- $ git status
 
+## Things i want to know
+How does using Git help me become a better software engineer?
+
+Summary:
+This topic basically explains how to use all the elements on Git. From how to download it on mulitple op systems. 
+IT shows you how to setup and Git Repo 
+THis topic talks about cloning and about when you clone a file you have all the versions from a project
+This tells you about the 3 componets of a local repo structure and the life cyle of a file
+
 
 
