@@ -1,1 +1,1 @@
-# [Class 01](/Reading-Notes/Class01)
+# [Class01](/Reading-Notes/Class)
