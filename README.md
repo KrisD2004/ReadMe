@@ -5,7 +5,7 @@ Reading Notes
 
 Today we made a Github Page site 
 
-## Class 02
+
 
 ## Who am i?
 My name is Kristian Dotson. Im 18 years old and i live in **Memphis,TN**
