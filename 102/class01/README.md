@@ -1,6 +1,4 @@
-# [102](/ReadingNotes/102)
-
-## Markdowns paragraphs are like this(look at line 9-11)
+# Markdowns paragraphs are like this
 
 Ex.I really like using Markdown.
 
