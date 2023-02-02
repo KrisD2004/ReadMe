@@ -5,3 +5,11 @@
 ## [class03](/ReadingNotes/102/class03)
 
 ## [class04](/ReadingNotes/102/class04)
+
+## [class05](/ReadingNotes/102/class05)
+
+## [class06](/ReadingNotes/102/class06)
+
+## [class07](/ReadingNotes/102/class07)
+
+## [class08](/ReadingNotes/102/class08)
