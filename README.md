@@ -4,6 +4,8 @@
 
 ## Hope you check out my profile! <https://github.com/KrisD2004>
 
-## [Class 01](/Reading-Notes/Class01)
+Table of contents
 
-## [Class 02](/Reading-Notes/Class02)
+## [102](/ReadingNotes/102)
+
+## [201](/ReadingNotes/102)
