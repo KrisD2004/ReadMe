@@ -28,13 +28,13 @@ These are elements that are combined to form an entire HTML page.
 
 Doctype is the required preamble. Doctypes are meant to act as links to a set of rules that an HTML page has to follow.
 
-<HTML> element is used to wrap all content on the page and is often reffered as the root element.
+The HTML. element is used to wrap all content on the page and is often reffered as the root element.
 
-<head> this element acts as a container for everything you want to invlude on a HTML page that isnt the content you want to show your viewers
+The head. this element acts as a container for everything you want to invlude on a HTML page that isnt the content you want to show your viewers
 
-<title> this element sets the title of your website. It appears in the browser tab the website is loaded in.
+The title. This element sets the title of your website. It appears in the browser tab the website is loaded in.
 
-<body> this contains all the cotent that you want to show the people when they visit your website.
+The body. this contains all the cotent that you want to show the people when they visit your website.
 
 The viewportt element ensures the page renders at the width of viewport preventing mobile browsers from opening pages wider than the viewport.
 
