@@ -45,4 +45,4 @@ They all include the <> icons also.
 
 ## Things i want to know more
 
-Why are there so many html semantics?
+Why are there so many html semantics
