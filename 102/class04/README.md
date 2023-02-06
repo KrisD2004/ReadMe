@@ -40,10 +40,12 @@ The viewportt element ensures the page renders at the width of viewport preventi
 
 ## SEMANTICS
 
-Semantics means pieces of code. 
+Semantics means pieces of code.
 Semantic elements that are in HTML are: article, aside, detail, figure, footer, header, main, mark, nav, section, summary, and time
 They all include the <> icons also.
 
 ## Things i want to know more
 
 Why are there so many html semantics?
+What is the difference between a UI desginer and a UX?
+
