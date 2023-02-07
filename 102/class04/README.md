@@ -47,5 +47,4 @@ They all include the <> icons also.
 ## Things i want to know more
 
 Why are there so many html semantics?
-What is the difference between a UI desginer and a UX?
-
+What is the difference between a UI desginer and a UX
