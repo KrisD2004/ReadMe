@@ -36,3 +36,7 @@ If the function was invoked from a statement, JavaScript will "return" to execut
 ## Function used as variables
 
 Fucntions can be used the same way as you use variables, in all types of formulas, assignments, and calculations.
+
+## Things i want learn more about
+
+Do all function names have to include a number, letter, and dollar signs?
