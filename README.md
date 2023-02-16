@@ -10,8 +10,16 @@ Table of contents
 
 ## [102](/ReadingNotes/102)
 
+**Intro to software development**
+
 ## [201](/ReadingNotes/201)
+
+**Foundation of software development**
 
 ## [301](/ReadingNotes/301)
 
+**Intermediate software development**
+
 ## [401](/ReadingNotes/401)  
+
+**Advanced software development**
