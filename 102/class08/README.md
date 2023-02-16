@@ -45,6 +45,9 @@ This operator is mainly used inside a **for** loop and that allows multiple vari
 
 A unary operation is an operation with only one operand.
 
+## Loops
+
+
 ## Things i want to know more about
 
 Do most of these operators transfer over to other languages?
