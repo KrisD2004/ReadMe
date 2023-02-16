@@ -4,7 +4,7 @@
 
 ## Hope you check out my profile! <https://github.com/KrisD2004>
 
-## These are some notes i did for Code Crew's code school 
+## These are some notes i did for Code Crew's code school
 
 Table of contents
 
