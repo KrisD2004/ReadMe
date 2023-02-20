@@ -58,3 +58,18 @@ React to user actions, run on mouse clicks, pointer movements, key presses*
 
 How can you add JavaScript to an HTML document?
 *Inline Script: Place directly in an HTML element's attribute, typically the onclick or onload attribute.*
+
+## Intro to HTML Questions
+
+1)What is an HTML attribute?
+*HTML attributes are a modifier of an HTML element type. An attribute either modifies the default functionality of an element type or provides functionality to certain element types unable to function correctly without them.*
+
+2)Describe the Anatomy of an HTMl element.
+*Opening tag is first, content is second, and closing tag is last*
+
+What is the Difference between article and section element tags?
+Section tag defines sections in a document such as chapters, headers, footers, or any other.
+Article tag specifies independent, self contained content
+
+What Elements does a “typical” website include?
+*User friendly website navigation, web design layout, responsive design, content writing, call to action, testimonials, an opt-in offer, story telling, FAQs section, and contact information. 
