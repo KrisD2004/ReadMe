@@ -79,5 +79,5 @@ JavaScript Questions
 
 Conditionals Questions
 1)An else if statement checks a return to se if its true or not
-2)These are called conditionals and their purpose is to see if a return is true or not 
+2)These are called conditionals and their purpose is to see if a return is true or not
 3) <(less than), >(greater than),<=(less than or equal) are all comparison operators.
