@@ -18,10 +18,7 @@ A web form's HTML is made up of one or more form controls (sometimes called widg
 
 # JavaScript Events
 
-Events are things that happen in the system you are programming — the system produces (or "fires") a signal of some kind when an event occurs, and provides a mechanism by which an action can be automatically taken (that is, some code running) when the event occurs. 
-
-
-
+Events are things that happen in the system you are programming — the system produces (or "fires") a signal of some kind when an event occurs, and provides a mechanism by which an action can be automatically taken (that is, some code running) when the event occurs.
 
 ## QUESTIONS
 
