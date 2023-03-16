@@ -39,10 +39,7 @@ There are 5 different animation grid properties:
 Ex. <video src="rabbit320.webm" controls></video>
 
 * Src In the same way as for the <img> element, the src (source) attribute contains a path to the video you want to embed. It works in exactly the same way.
-
 * controls - the useres must be able control video and audio playback (it's especially critical for people who have epilepsy)!
-
-* Audio element works just like the <video> element, with a few small differences as outlined below. 
 
 ## Questions 
 
