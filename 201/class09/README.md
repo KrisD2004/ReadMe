@@ -14,7 +14,7 @@ The (label) element is the formal way to define a label for an HTML form widget.
 
 Forms are  one of the main points of interaction between a suer and a website. These web forms allow the user to enter data.
 
-A web form's HTML is made up of one or more form controls (sometimes called widgets), plus some additional elements to help structure the overall form — they are often referred to as HTML forms. The controls can be single or multi-line text fields, dropdown boxes, buttons, checkboxes, or radio buttons, and are mostly created using the <input> element.
+A web form's HTML is made up of one or more form controls (sometimes called widgets), plus some additional elements to help structure the overall form — they are often referred to as HTML forms. The controls can be single or multi-line text fields, dropdown boxes, buttons, checkboxes, or radio buttons, and are mostly created using the input element.
 
 # JavaScript Events
 

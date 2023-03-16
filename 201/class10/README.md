@@ -36,7 +36,6 @@ Every modern web browser includes a powerful suite of developer tools. These too
 2. I have encounterednsyntax errors dealing iwth missing parenthesis and curly braces. I just go back to the line theyre missing on and go back and add them.
 3. a breakpoint is a means of acquiring knowledge about a program during its execution.
 
-
 ## things i want to know more about
 
 I want to know more about using dev tools and how to use them. I want to learn more about how to resolve logic error issues.
