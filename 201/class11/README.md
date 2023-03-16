@@ -43,7 +43,7 @@ Ex. <video src="rabbit320.webm" controls></video>
 
 ## Questions 
 
-1. 
+1. The first influx of online videos and audio were made possible by proprietary plugin-based technologies like Flash and Silverlight. 
 2. In a similar manner to the <img> element, we include a path to the media we want to display inside the src attribute; we can include other attributes to specify information such as video width and height, whether we want it to autoplay and loop, whether we want to show the browser's default video controls, etc.
 3. Fallback PTFs on the earlier-level release can allow it to tolerate changes that are made by the later-level release.In general, always plan to have a backout path when you install new software. Identify and install any service that is required to support backout.
 4. CSS Grid Layout, is a two-dimensional grid-based layout system with rows and columns, making it easier to design web pages without having to use floats and positioning. Like tables, grid layout allow us to align elements into columns and rows
