@@ -34,3 +34,20 @@ https://learn.shayhowe.com/advanced-html-css/css-transforms/
 2. CSS transitions allows you to change property values smoothly, over a given duration.
 3. CSS transitions are generally best for simple from-to movements, while CSS animations are for more complex series of movements.
 4. The benefits are that it allows the appearance of images to catch the attention of users.
+
+
+## Psychological Safety
+
+
+Three key factors that contribute to psychologically safe teams, as outlined in the article, are:
+
+Dependability: team members can rely on each other to meet their commitments and deliver quality work.
+Psychological safety: team members feel safe to take risks and be vulnerable in front of each other without fear of judgment or retribution.
+Structure and clarity: team members have clear roles, goals, and expectations, and understand how their work fits into the larger context of the team's mission.
+In a previous professional setting, I was part of a team that struggled with psychological safety. There was a culture of blame and criticism, where mistakes were often met with harsh criticism rather than constructive feedback. This led to a lack of trust among team members and a reluctance to take risks or admit when something was going wrong.
+
+As a result, the team struggled to innovate and collaborate effectively. There was a sense of individualism rather than a collective sense of purpose, and team members were more concerned with protecting their own interests rather than working towards a shared goal. This had a negative impact on productivity, morale, and ultimately, the success of the project.
+
+Teams that operate with a high degree of psychological safety have a number of positive impacts on both the company and team members. Firstly, they are more likely to innovate and take risks, leading to new ideas and solutions. They are also more collaborative, with team members working together towards a shared goal rather than focusing solely on their own interests. This leads to increased productivity and improved outcomes.
+
+Psychologically safe teams also have a positive impact on team members' well-being, as they feel supported, valued, and able to be themselves at work. This can lead to greater job satisfaction, increased motivation, and a stronger sense of belonging to the team and the company as a whole.
