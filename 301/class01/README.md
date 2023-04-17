@@ -16,13 +16,11 @@ A software component is a modular and portable piece of software that encapsulat
 
 A component can have 3 different views - object-oriented view, conventional view, and process-related view.
 
-* Object-oriented view is viewed as a set of one or more coopperating classes. Each problem domain class (analysis) and infrastructure class (design) are explained to identify all attributes and operations that apply to its implementation. It also involves defining the interfaces that enable classes to communicate and cooperate.
+* The object-oriented view considers a group of classes that work together to solve a problem. The analysis identifies problem domain classes, and the design identifies infrastructure classes, each with their own attributes and operations. The interfaces between classes are also defined to enable communication and cooperation.
 
-* Conventional view is viewed as a functional element or a module of a program that integrates the processing logic, the internal data structures that are required to implement the processing logic and an interface that enables the component to be invoked and data to be passed to it.
+* The conventional view sees a program module as a functional element that contains processing logic, internal data structures, and an interface for invoking the component and passing data to it.
 
-* Process-related view
-
-In this view, instead of creating each component from scratch, the system is building from existing components maintained in a library. As the software architecture is formulated, components are selected from the library and used to populate the architecture.
+* The process-related view involves building a system using existing components from a library, rather than creating each component from scratch. The software architecture is created, and components are selected from the library and integrated into the architecture.
 
 ## Characteristics of Components
 
@@ -54,7 +52,7 @@ The advantages of using component-based design include ease of deployment, reduc
 React is a library that follows a component-based approach to UI development, where the UI is divided into reusable components. In some cases, these components need to communicate with each other by passing data. To achieve this, React uses "props" or properties, which are a way to pass data from a parent component to a child component. 
 
 **Prop** is a keyword in react which means properties and is being used for passing data from one component to another. 
-
+Props flows from top to bottom(Parent to Child).
 
 ## Questions
 
@@ -63,6 +61,12 @@ Component
 1. A component is a modular and reusable piece of code that encapsulates a set of functionality and renders a part of the UI.
 2. Reusability, replaceable, not context specific, extensible, escapsulated, and independent are all characteristics of components
 3. The advantages of component based architecture are reusability, maintenance, collaboration, and consistency. 
+
+Prop Questions
+1. Prop is short of properties
+2. In React, props (short for "properties") are used to pass data from a parent component to a child component.
+3. parent to child is the flow(top to bottom)
+
 
 ## Things i want to know more about
 
