@@ -63,6 +63,7 @@ Component
 3. The advantages of component based architecture are reusability, maintenance, collaboration, and consistency. 
 
 Prop Questions
+
 1. Prop is short of properties
 2. In React, props (short for "properties") are used to pass data from a parent component to a child component.
 3. parent to child is the flow(top to bottom)
