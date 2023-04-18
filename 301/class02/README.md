@@ -34,3 +34,7 @@ Props on the other hand are a way for components to recieve data from their pare
 2. The difference is state store and manage data that can be changed over time while props **recieve data from the parent components**
 3. React will re-render the component to update the UI.
 4. You can store form input values, user authentication state, and Component visibility.
+
+## Things i want to know more about
+
+I want to know more about the lifecycle of components. 
