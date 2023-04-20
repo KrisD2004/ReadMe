@@ -80,3 +80,7 @@ Define the method in the parent component.
 Pass the method as a prop to the child component.
 In the child component, use the prop to invoke the method.
 4. To invoke a method that was passed to a child component from a parent component, the child component needs to call the method using the prop that was passed to it.
+
+## things i want to know more about 
+
+I want to know more about how to know when to use the map function
