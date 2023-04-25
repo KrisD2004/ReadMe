@@ -16,7 +16,7 @@
 ## JavaScript: The Conditional (Ternary) Operator
 
 * The ternary operator is a shorthand way of writing conditional statements in JavaScript.
-* It consists of three parts: a condition, a question mark (?), and two expressions separated by a colon (:).
+* It consists of three parts: a condition, a question mark (? anything before this is asking if its true), and two expressions separated by a colon (: is else).
 * If the condition evaluates to true, the first expression is executed; if it evaluates to false, the second expression is executed.
 * The ternary operator is often used as a shortcut for simple if-else statements.
 * It can also be nested inside other ternary operators to create more complex conditional expressions.
