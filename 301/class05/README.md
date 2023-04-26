@@ -62,3 +62,7 @@
 2. The greaterThan function is an example of a higher-order function. It takes a number as an argument and returns a new function that takes another number and returns true if that number is greater than the original number, and false otherwise.
 Line 2 of the greaterThan function is defining a new function using a shorthand syntax called arrow functions. 
 3. Map takes a function as its argument and applies that function to each element in an array, creating a new array with the results. Reduce takes a function as its argument and uses that function to accumulate a single value by iteratively combining each element of an array. 
+
+## Things i want to know more about 
+
+I want to learn more about higher order functions and getting more understanding using filter. 
