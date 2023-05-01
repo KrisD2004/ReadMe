@@ -27,3 +27,7 @@ The speaker also offered some tips for avoiding these pitfalls and making agile 
 5. A POST request is a command in the HTTP protocol that sends data to a web server to create or update a resource. 
 6. A PUT request is a command in the HTTP protocol that sends data to a web server to update a resource.
 7. A PATCH request is a command in the HTTP protocol that sends data to a web server to partially update a resource.
+
+## Things i want to know more about
+
+Learn more ways to improve agile development
