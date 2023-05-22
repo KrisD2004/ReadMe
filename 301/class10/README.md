@@ -56,29 +56,29 @@
 3. LIFO stands for "Last-In, First-Out," which is a principle commonly associated with data structures like stacks. In the context of a call stack, LIFO means that the most recent function call that was made will be the first one to be completed and returned, followed by the next most recent one, and so on.
 
 4. Here's an example of a call stack with multiple function invocations:
-function main() {
+
+* function main() {
   console.log("In main");
   functionA();
 }
 
-function functionA() {
+* function functionA() {
   console.log("In functionA");
   functionB();
 }
 
-function functionB() {
+* function functionB() {
   console.log("In functionB");
 }
 
-main();
-Call stack:
+* main();
 
+
+* Call stack:
 main()
 functionA()
 functionB()
 
 Each function call adds a new frame to the top of the call stack, and when a function completes, its frame is removed from the stack, allowing the program to continue executing the remaining functions.
-
-
 
 5. A stack overflow occurs when the call stack exceeds its maximum size or capacity. This can happen due to recursive function calls that don't have proper termination conditions or excessive nested function invocations. When a stack overflow occurs, it means that the call stack has run out of available space, and the program is unable to handle additional function calls. This results in an error, commonly known as a "stack overflow error" or "stack overflow exception."
