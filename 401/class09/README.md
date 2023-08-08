@@ -99,8 +99,3 @@ Overall, the walkthrough provides a comprehensive introduction to LINQ query exp
 
 
 
-
-
-
-
-
