@@ -29,3 +29,13 @@
 # [class14](/ReadingNotes/401/class14)
 
 # [class15](/ReadingNotes/401/class15)
+
+# [class16](/ReadingNotes/401/class16)
+
+# [class17](/ReadingNotes/401/class17)
+
+# [class18](/ReadingNotes/401/class18)
+
+# [class19](/ReadingNotes/401/class19)
+
+# [class20](/ReadingNotes/401/class20)
